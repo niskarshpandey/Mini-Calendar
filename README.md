@@ -17,7 +17,7 @@ Mini-Calendar is a simple web-based calendar application built using HTML, CSS, 
 ## Demo
 
 Below is a screenshot of the Mini-Calendar in action:
-
+![Mini-Calendar Screenshot](Mini-Calender/Screenshot%2025-03-24%113535.png)
 
 
 ## Installation & Usage
