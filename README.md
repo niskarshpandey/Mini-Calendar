@@ -1,4 +1,5 @@
 # Mini-Calender
+[Link- https://niskarshpandey.github.io/Mini-Calender/]
 
 Mini-Calendar is a simple web-based calendar application built using HTML, CSS, and JavaScript. It provides an intuitive interface to view a calendar, navigate through months, and (if implemented) manage events.
 
@@ -20,9 +21,11 @@ Below is a screenshot of the Mini-Calendar in action:
 ![Mini-Calendar Screenshot](https://github.com/niskarshpandey/Mini-Calender/blob/main/Screenshot%202025-03-24%20113535.png)
 
 
+
+
 ## Installation & Usage
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/mini-calendar.git
+   git clone https://github.com/niskarshpandey/mini-calendar.git
    cd mini-calendar
