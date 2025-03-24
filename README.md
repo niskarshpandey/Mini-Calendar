@@ -27,5 +27,5 @@ Below is a screenshot of the Mini-Calendar in action:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/niskarshpandey/mini-calendar.git
-   cd mini-calendar
+   git clone https://github.com/niskarshpandey/Mini-calender.git
+   cd Mini-calender
